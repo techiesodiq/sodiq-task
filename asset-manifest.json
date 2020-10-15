@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/techiesodiq.github.io/sodiq-task/static/css/main.5f361e03.chunk.css",
+    "main.js": "/techiesodiq.github.io/sodiq-task/static/js/main.76137c8a.chunk.js",
+    "main.js.map": "/techiesodiq.github.io/sodiq-task/static/js/main.76137c8a.chunk.js.map",
+    "runtime-main.js": "/techiesodiq.github.io/sodiq-task/static/js/runtime-main.3d2c60ee.js",
+    "runtime-main.js.map": "/techiesodiq.github.io/sodiq-task/static/js/runtime-main.3d2c60ee.js.map",
+    "static/js/2.0250bd54.chunk.js": "/techiesodiq.github.io/sodiq-task/static/js/2.0250bd54.chunk.js",
+    "static/js/2.0250bd54.chunk.js.map": "/techiesodiq.github.io/sodiq-task/static/js/2.0250bd54.chunk.js.map",
+    "index.html": "/techiesodiq.github.io/sodiq-task/index.html",
+    "precache-manifest.e15e84fc7b31aa135c6d31a404162b51.js": "/techiesodiq.github.io/sodiq-task/precache-manifest.e15e84fc7b31aa135c6d31a404162b51.js",
+    "service-worker.js": "/techiesodiq.github.io/sodiq-task/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/techiesodiq.github.io/sodiq-task/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0250bd54.chunk.js.LICENSE.txt": "/techiesodiq.github.io/sodiq-task/static/js/2.0250bd54.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/techiesodiq.github.io/sodiq-task/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d2c60ee.js",
+    "static/js/2.0250bd54.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.76137c8a.chunk.js"
+  ]
+}
